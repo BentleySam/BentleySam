@@ -11,5 +11,5 @@ BentleySam/BentleySam is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats-five-rho-16.vercel.app/api/top-langs/?username=BentleySam&hide=javascript,html,SCSS,CSS)](https://github.com/BentleySam/github-readme-stats)
+[![Top Langs](https://github-readme-stats-five-rho-16.vercel.app/api/top-langs/?username=BentleySam&count_private=true)](https://github.com/BentleySam/github-readme-stats)
 
